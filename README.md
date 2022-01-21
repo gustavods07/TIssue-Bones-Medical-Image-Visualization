@@ -1,7 +1,7 @@
 # Tissue-Bones-Medical-Image-Visualization
 The goal of this code is using Python to Read DICOM (Digital Imaging and Communications in Medicine) files and generate JPEG images based on Hounsfield Units windows for better visualization of bones or tissue.
 
-The DICOM CT (Computed Tomography) files werem obtained from https://www.dicomlibrary.com/ 
+The DICOM CT (Computed Tomography) files were obtained from https://www.dicomlibrary.com/ 
 
 The windowing process was experimental, since i have no sufficient expertise about this process. Although, the **HU** Values ware based on **A Hounsfield value-based approach for automatic recognition of brain haemorrhage**: https://doi.org/10.1080/24751839.2018.1547951.
 
