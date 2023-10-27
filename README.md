@@ -1,5 +1,5 @@
 # Tissue-Bones-Medical-Image-Visualization
-Here i use Python to Read DICOM (Digital Imaging and Communications in Medicine) files and generate JPEG images based on Hounsfield Units windows for better visualization of bones or tissue.
+As part of my bachelor's thesis, i used Python to Read DICOM (Digital Imaging and Communications in Medicine) files and generate JPEG images based on Hounsfield Units windows for better visualization of bones or tissue.
 
 The DICOM CT (Computed Tomography) files were obtained from https://www.dicomlibrary.com/ 
 
